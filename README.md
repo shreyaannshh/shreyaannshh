@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-- 🔭 I’m currently working on Python Java Drone Technology
+- 🔭 I’m currently working on Python Java and Drone Technology
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning.
 - 👯 I’m looking to collaborate on Development projects
 - 🤔 I’m looking for help with learning new technologies
